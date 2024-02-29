@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="testng">
+    <classes>
+      <class name="Project1.OrangeHRM.Login"/>
+      <class name="Project1.OrangeHRM.VisaImmigration"/>
+      <class name="Project1.OrangeHRM.PassportImmigration"/>
+      <class name="Project1.OrangeHRM.DeleteImmegration"/>
+      <class name="Project1.OrangeHRM.FileAttachment"/>
+      <class name="Project1.OrangeHRM.JobView"/>
+    </classes>
+  </test> <!-- testng -->
+</suite> <!-- Suite -->
